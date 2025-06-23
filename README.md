@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshpachauri123
-- 👀 
-  .
-- 💞️ I’m looking to collaborate on ...
+- 👀  I’m currently learning **React, Next.js, and Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me paharsh33@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
