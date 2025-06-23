@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshpachauri123
-- 👀 I’m interested in Android development..
-- 🌱 I’m currently learning XML language..
+- 👀 
+  .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me paharsh33@gmail.com
 - 😄 Pronouns: ...
