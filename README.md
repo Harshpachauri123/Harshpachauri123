@@ -7,6 +7,16 @@
 
 ---
 
+### 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Backend Development with Flask & Django**
+- 👯 I’m open to collaborate on **Python/AI/ML projects**
+- 💬 Ask me about **Python, APIs, GitHub, Flask, React**
+- 🧠 Currently doing an internship at **Robonox (AI/ML)**
+- 🥅 2025 Goal: Build 10+ real-world projects and crack tech interviews
+
+---
+
 ### 🏅 Achievements
 
 - 🐍 **5⭐ in Python on [HackerRank](https://www.hackerrank.com/)**  
@@ -14,13 +24,25 @@
 
 ---
 
-### 💻 Tech Stack
+### 🚀 My Projects
 
-- **Languages**: Python, JavaScript, C
-- **Frontend**: HTML, CSS, React.js
-- **Backend**: Flask, Django (learning), REST APIs
-- **Tools**: Git, VS Code, Postman, MySQL, MongoDB
-- **AI/ML**: NumPy, Pandas, Scikit-learn *(Intern @ Robonox)*
+- 🎓 **Student Performance Dashboard** – Dept.-level result analysis using Pandas & Matplotlib
+- 📦 **Inventory Management System** – Python + SQL CLI app
+- 🛒 **E-Commerce Web App** – Flask-based product showcase with cart
+- 🌐 **Portfolio Website** – React.js powered personal site (deployed)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+</p>
 
 ---
 
@@ -33,6 +55,23 @@
 
 ---
 
+### 🎯 Current Focus
+
+- ✅ Final Year Projects
+- ✅ Resume Building & Interview Prep
+- ✅ Improving on LeetCode & GFG
+- ✅ Building scalable web apps
+
+---
+
+### 😄 Fun Facts
+
+- 😎 I love debugging more than coding
+- 🎵 Music + Code = Perfect Combo
+- 🎯 Goal-Oriented, Tea-fueled Developer ☕
+
+---
+
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/harsh-pachauri-406226230/)
@@ -41,3 +80,4 @@
 - 📧 Email: paharsh33@gmail.com
 
 ---
+
