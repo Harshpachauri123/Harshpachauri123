@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Pachauri</h1>
-<h3 align="center">Aspiring Data Scientist|Python Developer | Frontend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Python Developer | Frontend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackerRank-5⭐_Python-success?style=flat-square&logo=hackerrank" alt="hackerrank badge" />
